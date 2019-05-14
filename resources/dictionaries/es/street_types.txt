@@ -6,7 +6,7 @@ angosta|angta
 apeadero|apdro
 autopista|auto|autop|aut|ap
 autovía|autovia|autov
-avenida|av|avd|avda|av /
+avenida|av|avd|avda|adva|av /
 avenida calle|ac|av cl|av| cll|av calle
 avenida carrera|ak|av cr|av cra|avda cra|avda cr
 bajada|bjada
@@ -33,7 +33,7 @@ camping|campg
 cantera|cantr
 cantón|canton|cant
 carrera|cra|carra|carr|cr|kra|kr
-carretera|ctra|cr|ct
+carretera|ctra|crta|cr|ct
 carreterín|carreterin|ctrin
 carretil|crtil
 carril|crril
